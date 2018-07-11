@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/blog"
 url: "https://buncolak.github.io"
 title: Bün Çolak - Blog # site's title
 description: "Kişisel Blog" # used by search engines
