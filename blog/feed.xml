@@ -5,7 +5,7 @@
         <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
         <link>https://buncolak.github.io/blog/</link>
         <description></description>
-        <pubDate>Thu, 12 Jul 2018 13:22:38 +0200</pubDate>
+        <pubDate>Thu, 12 Jul 2018 13:28:04 +0200</pubDate>
         
         <item>
             <title>If you want to learn stuff...</title>
@@ -33,7 +33,7 @@ and I’ll explain those in this post. My list goes:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-udacity&quot;&gt;1. &lt;a href=&quot;http://udacity.com&quot;&gt;Udacity&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/udacity.PNG&quot; alt=&quot;alt text&quot; title=&quot;Udacity main page&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/img/udacity.PNG&quot; alt=&quot;alt text&quot; title=&quot;Udacity main page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First stop is Udacity. This was my starting point since it was one of the recommendations from Google. Their system is hard to understand.
 At first sight all courses look paid and with a ridiculous price near $200 pe month. &lt;em&gt;That’s not the point at all.&lt;/em&gt; &lt;strong&gt;Actually nearly all courses are free&lt;/strong&gt;,
@@ -45,7 +45,7 @@ look for more like design etc. they also exist. The content is great and the qua
 
 &lt;h2 id=&quot;2-coursera&quot;&gt;2. &lt;a href=&quot;http://coursera.org&quot;&gt;Coursera&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Coursera.PNG&quot; alt=&quot;alt text&quot; title=&quot;Coursera main page&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/img/Coursera.PNG&quot; alt=&quot;alt text&quot; title=&quot;Coursera main page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Coursera is different. First of all most of the courses are provided via universities. Sadly, most of them are not free. However, the fee is rather 
 affordable and if you have a limited budget they have some scholarship system. You can apply for the scholarship and get some discount. Contents are
@@ -57,7 +57,7 @@ good and mostly worth the cost.&lt;/p&gt;
 
 &lt;h2 id=&quot;3-udemy&quot;&gt;3. &lt;a href=&quot;http://udemy.com&quot;&gt;Udemy&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/udemy.PNG&quot; alt=&quot;alt text&quot; title=&quot;Udemy main page&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/img/udemy.PNG&quot; alt=&quot;alt text&quot; title=&quot;Udemy main page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Udemy is the most popular one I suppose. The system is somewhere between Coursera and Udacity. You pay for the course fee, which varies for every
 course, and you get all the lecture material for yourself. There are a lot of subjects to chose and the &lt;strong&gt;prices are mostly cheap(about $10)&lt;/strong&gt;. However,
@@ -69,7 +69,7 @@ original price is $200 and for your lucky ass it is $10. I mean I would feel rea
 
 &lt;h2 id=&quot;4-treehouse&quot;&gt;4. &lt;a href=&quot;http://teamtreehouse.com&quot;&gt;Treehouse&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/treehouse.PNG&quot; alt=&quot;alt text&quot; title=&quot;Treehouse main page&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/img/treehouse.PNG&quot; alt=&quot;alt text&quot; title=&quot;Treehouse main page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Last two websites focus on programming. Treehouse is the first one because I like their design to be honest. Treehouse focuses on teaching 
 programming languages and methods. There aren’t any free content on the website, but &lt;strong&gt;you can try them for a week without any limits&lt;/strong&gt;. Best thing
@@ -79,7 +79,7 @@ students to use the knowledge they get from the lectures. The monthly fee is ok,
 
 &lt;h2 id=&quot;5sololearn&quot;&gt;5.&lt;a href=&quot;http://sololearn.com&quot;&gt;SoloLearn&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/sololearn.PNG&quot; alt=&quot;alt text&quot; title=&quot;SoloLearn main page&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/img/sololearn.PNG&quot; alt=&quot;alt text&quot; title=&quot;SoloLearn main page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Duolingo!&lt;/strong&gt; Really, SoloLearn is so Duolingo that if you have used Duolingo before, you won’t even notice you’re using a different website. Is this
 a bad thing though? Of course not! There is a reason why Duolingo is this popular. There are a lot of programming languages in the site that you can 
