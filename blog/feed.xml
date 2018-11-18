@@ -1,97 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Bün Çolak - Blog</title>
-        <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-        <link>https://buncolak.github.io/blog/</link>
-        <description></description>
-        <pubDate>Thu, 12 Jul 2018 13:28:04 +0200</pubDate>
-        
-        <item>
-            <title>If you want to learn stuff...</title>
-            <link>/blog/personal/2018/07/11/if-you-want-to-learn-stuff.html</link>
-            <guid isPermaLink="true">/blog/personal/2018/07/11/if-you-want-to-learn-stuff.html</guid>
-            <description>&lt;p&gt;I was bored. Really bored. Normal people would go watch some series or play games, but I do those when I have to do something important. 
-If I have free time, I do weird stuff. So I was bored and thought I can learn some cool stuff in my free time. I know English and there must be some 
-place people learn these cool things.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://buncolak.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://buncolak.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-11-18T20:10:25+03:00</updated><id>http://buncolak.github.io/blog/feed.xml</id><title type="html">Bün Çolak | Blog</title><subtitle>Bün Çolak Kişisel Blog</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://buncolak.github.io/blog/jekyll/update/2018/11/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-18T17:07:07+03:00</published><updated>2018-11-18T17:07:07+03:00</updated><id>http://buncolak.github.io/blog/jekyll/update/2018/11/18/welcome-to-jekyll</id><content type="html" xml:base="http://buncolak.github.io/blog/jekyll/update/2018/11/18/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&lt;p&gt;For example, building Android apps. I always wanted to build my own app. I tried to learn in the past, but
-every book I had tried was outdated. I mean they tried to teach for Android 2.2, but the current version at the time was 4.0.&lt;/p&gt;
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Anyway&lt;/strong&gt;, I thought there &lt;em&gt;must&lt;/em&gt; be some smarter way to achieve that. With a little bit of research I found some sources to learn things
-and I’ll explain those in this post. My list goes:&lt;/p&gt;
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://udacity.com&quot;&gt;&lt;strong&gt;Udacity&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://coursera.org&quot;&gt;&lt;strong&gt;Coursera&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://coursera.com&quot;&gt;&lt;strong&gt;Udemy&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://teamtreehouse.com&quot;&gt;&lt;strong&gt;Treehouse&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sololearn.com&quot;&gt;&lt;strong&gt;SoloLearn&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Feel free to visit the sites and investigate them yourself, but here’s my humble opinion about them.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-udacity&quot;&gt;1. &lt;a href=&quot;http://udacity.com&quot;&gt;Udacity&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/img/udacity.PNG&quot; alt=&quot;alt text&quot; title=&quot;Udacity main page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;First stop is Udacity. This was my starting point since it was one of the recommendations from Google. Their system is hard to understand.
-At first sight all courses look paid and with a ridiculous price near $200 pe month. &lt;em&gt;That’s not the point at all.&lt;/em&gt; &lt;strong&gt;Actually nearly all courses are free&lt;/strong&gt;,
-but if you want a certificate to show that you took that course, that is pricy.&lt;/p&gt;
-
-&lt;p&gt;But if you’re like me, do not need or want the certificate you can explore the site and find all kinds of courses free. Especially their courses 
-on Android are superb since most of the lecturers for the course are people from Google. &lt;a href=&quot;https://www.udacity.com/course/new-android-fundamentals--ud851&quot;&gt;Here&lt;/a&gt; is the link for the Android course I took and if you
-look for more like design etc. they also exist. The content is great and the quality is really, &lt;em&gt;really good.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2-coursera&quot;&gt;2. &lt;a href=&quot;http://coursera.org&quot;&gt;Coursera&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/img/Coursera.PNG&quot; alt=&quot;alt text&quot; title=&quot;Coursera main page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Coursera is different. First of all most of the courses are provided via universities. Sadly, most of them are not free. However, the fee is rather 
-affordable and if you have a limited budget they have some scholarship system. You can apply for the scholarship and get some discount. Contents are
-literally courses &lt;strong&gt;like in universities&lt;/strong&gt;. There are some lectures you have to watch and read for every week and some quizes, assignments 
-for every week. The scope of content is broader than Udacity. There is literally every course for every subject and the quality for those is quite
-good and mostly worth the cost.&lt;/p&gt;
-
-&lt;p&gt;I tried the &lt;a href=&quot;https://www.coursera.org/specializations/game-development&quot;&gt;Game Development Course from Michigan State University&lt;/a&gt;, which was quite nice. Also it is a nice way to see how those universities teach. (MSU enroll me please.)&lt;/p&gt;
-
-&lt;h2 id=&quot;3-udemy&quot;&gt;3. &lt;a href=&quot;http://udemy.com&quot;&gt;Udemy&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/img/udemy.PNG&quot; alt=&quot;alt text&quot; title=&quot;Udemy main page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Udemy is the most popular one I suppose. The system is somewhere between Coursera and Udacity. You pay for the course fee, which varies for every
-course, and you get all the lecture material for yourself. There are a lot of subjects to chose and the &lt;strong&gt;prices are mostly cheap(about $10)&lt;/strong&gt;. However,
- I feel like courses are a bit &lt;em&gt;overrated&lt;/em&gt;. How so? Take a look at the website and you’ll see almost every course has a discount, claiming the 
-original price is $200 and for your lucky ass it is $10. I mean I would feel really special if it was true.&lt;/p&gt;
-
-&lt;p&gt;Anyway, there are lots of cources on the site and the plus side of it, you can see what it contains and provides. For example, how many hours of lecture
-, how many slides, projects etc. Thus, you know what you pay for. Also they allow you to &lt;strong&gt;preview some of the lectures before you purchase&lt;/strong&gt;, which is great.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-treehouse&quot;&gt;4. &lt;a href=&quot;http://teamtreehouse.com&quot;&gt;Treehouse&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/img/treehouse.PNG&quot; alt=&quot;alt text&quot; title=&quot;Treehouse main page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Last two websites focus on programming. Treehouse is the first one because I like their design to be honest. Treehouse focuses on teaching 
-programming languages and methods. There aren’t any free content on the website, but &lt;strong&gt;you can try them for a week without any limits&lt;/strong&gt;. Best thing
-about the website is that &lt;em&gt;you don’t need to install any compilers etc. to your computer&lt;/em&gt;. The whole lectures and assignments can be done with
-just using your browser. This is great for people who travel a lot or people with low-end computers. Lectures are &lt;strong&gt;very interactive&lt;/strong&gt; and encourages
-students to use the knowledge they get from the lectures. The monthly fee is ok, &lt;strong&gt;just a humble $25&lt;/strong&gt;. It can be a bit pricy for some, but it is worth it.&lt;/p&gt;
-
-&lt;h2 id=&quot;5sololearn&quot;&gt;5.&lt;a href=&quot;http://sololearn.com&quot;&gt;SoloLearn&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/assets/img/sololearn.PNG&quot; alt=&quot;alt text&quot; title=&quot;SoloLearn main page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duolingo!&lt;/strong&gt; Really, SoloLearn is so Duolingo that if you have used Duolingo before, you won’t even notice you’re using a different website. Is this
-a bad thing though? Of course not! There is a reason why Duolingo is this popular. There are a lot of programming languages in the site that you can 
-learn. However, same downside as Duolingo, &lt;em&gt;there is a limit that you can learn from SoloLearn.&lt;/em&gt; I mean you cannot be a Python programmer after
-finishing the lectures. However, you would make a &lt;em&gt;perfect&lt;/em&gt; start and you can learn the advanced stuff rather easier.&lt;/p&gt;
-
-&lt;p&gt;I know I talked too much, so I advise you to visit these websites and pick the best for yourself. Good stuff.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://open.spotify.com/embed?uri=spotify:track:1A6T6TeVnf0uJ9MmUjoLIJ&quot; width=&quot;300&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-</description>
-            <pubDate>Wed, 11 Jul 2018 16:08:00 +0200</pubDate>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">İnceleme: American Vandal Sezon 1</title><link href="http://buncolak.github.io/blog/2018/11/18/american-vandal-season-1.html" rel="alternate" type="text/html" title="İnceleme: American Vandal Sezon 1" /><published>2018-11-18T00:00:00+03:00</published><updated>2018-11-18T00:00:00+03:00</updated><id>http://buncolak.github.io/blog/2018/11/18/american-vandal-season-1</id><content type="html" xml:base="http://buncolak.github.io/blog/2018/11/18/american-vandal-season-1.html">&lt;p&gt;Bir süredir yeni bir diziye başlamak istiyordum. Yazın başında izlediğim &lt;a href=&quot;http://imdb.com&quot;&gt;Arrested Development&lt;/a&gt; ve &lt;a href=&quot;http://imdb.com&quot;&gt;Brooklyn 99&lt;/a&gt; sonrası biraz
+boşluğa düşmüştüm. Komedi dizilerini sevenler için söylüyorum ikisini de izleyin. Arrested Development daha absürd, Brooklyn 99 daha kolay daha rahat izlenime sahip.&lt;/p&gt;</content><author><name>buncolak</name></author><summary type="html">Bir süredir yeni bir diziye başlamak istiyordum. Yazın başında izlediğim Arrested Development ve Brooklyn 99 sonrası biraz boşluğa düşmüştüm. Komedi dizilerini sevenler için söylüyorum ikisini de izleyin. Arrested Development daha absürd, Brooklyn 99 daha kolay daha rahat izlenime sahip.</summary></entry></feed>
