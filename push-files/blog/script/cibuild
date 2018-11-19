@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+cd ./site-files/blog
+bundle install
+bundle exec jekyll build
+rm -rf ../../push-files/blog/
+cp -r ./_site ../../push-files/blog
