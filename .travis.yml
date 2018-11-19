@@ -9,7 +9,7 @@ before_script:
 branches:
   only:
   - gh-pages     # test the gh-pages branch
-
+  - /.*/
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
 script: ./site-files/blog/script/cibuild
