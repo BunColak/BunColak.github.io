@@ -21,6 +21,7 @@ deploy:
   keep-history: true
   on:
     branch: master
+    branch: gh-pages
 
 env:
   global:
