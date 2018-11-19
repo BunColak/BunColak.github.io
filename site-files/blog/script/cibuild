@@ -4,6 +4,5 @@ set -e # halt script on error
 cd ./site-files/blog
 bundle install
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --disable-external
-rm -rf ./blog
-cp -r ./_site ../blog
+rm -rf ../../blog
+cp ./_site ../../blog
