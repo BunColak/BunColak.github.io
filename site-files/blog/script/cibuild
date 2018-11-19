@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-cd ./blog
+cd ./site-files/blog
+bundle install
 bundle exec jekyll build
 bundle exec htmlproofer ./_site --disable-external
-rm -rf ../docs/blog
-cp -r ./_site/ ../docs/blog
+rm -rf ./blog
+cp -r ./_site ../blog
