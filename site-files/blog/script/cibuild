@@ -5,4 +5,4 @@ cd ./site-files/blog
 bundle install
 bundle exec jekyll build
 rm -rf ../../blog
-cp ./_site ../../blog
+cp -r ./_site ../../blog
