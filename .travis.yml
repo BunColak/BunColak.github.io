@@ -3,12 +3,24 @@ rvm:
   - 2.4.1
 
 before_script:
- - pwd 
  - chmod +x ./site-files/blog/script/cibuild # or do this locally and commit
+
+
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
 script: ./site-files/blog/script/cibuild
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
 
 env:
   global:
