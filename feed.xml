@@ -1,4 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-21T09:57:15+03:00</updated><id>/feed.xml</id><title type="html">Bün Çolak Blog</title><subtitle>Kişisel Blog, subjektif.</subtitle><entry><title type="html">Gerçekçi bir film</title><link href="/gercekci-bir-film/" rel="alternate" type="text/html" title="Gerçekçi bir film" /><published>2019-06-21T00:00:00+03:00</published><updated>2019-06-21T00:00:00+03:00</updated><id>/gercekci-bir-film</id><content type="html" xml:base="/gercekci-bir-film/">&lt;p&gt;Game of Thrones sekizinci sezonu ile finalini yaptı. Son sezon olması, yoğun savaş 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-08-14T12:07:53+03:00</updated><id>/feed.xml</id><title type="html">Bün Çolak Blog</title><subtitle>Kişisel Blog, subjektif.</subtitle><entry><title type="html">Yıllık eğlencem: The International</title><link href="/yillik-eglencem-ti9/" rel="alternate" type="text/html" title="Yıllık eğlencem: The International" /><published>2019-08-14T00:00:00+03:00</published><updated>2019-08-14T00:00:00+03:00</updated><id>/yillik-eglencem-ti9</id><content type="html" xml:base="/yillik-eglencem-ti9/">&lt;p&gt;Çok fazla klasik spor izleyen biri değilim. NBA playoff finalleri ve Şampiyonlar Ligi dışında pek fazla izlediğimi söyleyemem.
+Yıllardır izlediğim iki adet espor var: DotA2 ve CS:GO. Her yıl Ağustos-Eylül aylarında DotA2 için The International, CS:GO için ise Major oluyor.
+Bu sene biraz kendi seyir keyfimi zenginleştirmek, biraz da işsizliğimden bu seneki The International(TI9) için kimler katılıyor ve genel istatistikler hazırlamak istedim.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-international-9-ti9&quot;&gt;The International 9 (TI9)&lt;/h2&gt;
+&lt;p&gt;Turnuva 18 takım ile 15 Ağustos ile 25 Ağustos tarihleri arasında gerçekleşecek.
+Bu 18 takımın 12’si sene içerisinde yapılan turnuvalardaki sıralamalarına göre ilk 12’ye giren takım iken, 6’sı bölgesel(NA, SA, EU, CIS, CN, SEA) elemelerden geliyorlar.&lt;/p&gt;
+
+&lt;p&gt;Turnuvanın ilk 4 günü, 2 gruba ayrılmış takımlar round robin formatında birbirleri ile mücadele edip
+ana turnuvada avantajlı bir konuma gelmek için yarışacaklar. Grup elemelerinin güzel yanı, sadece her grubun sonuncusu eleniyor :)&lt;/p&gt;
+
+&lt;p&gt;Ana turnuva çift elemeli ilerliyor. Yani eşleşmeler üst ve alt kola ayrılıyor. Üst koldaki maçı kaybeden takım alt kola düşüyor, alt koldaki maçı kaybeden ise turnuvaya veda ediyor. Grup maçları sonucunda her grubun ilk 4 takımı üst kola yerleşirken, alt 4 takım ise alt kola yerleşiyor. Her grup birincisi ana turnuva karşılaşması için karşı grubun 3.sünü ya da 4.sünü kendine rakip olarak seçebiliyor. O yüzden gruplarda eleme ihtimali az olmasına rağmen ana turnuvada karşılaşılabilecek rakipler dolayısı ile önemli.&lt;/p&gt;
+
+&lt;p&gt;Ana turnuva ise 6 gün boyunca çift elemeli sistem ile devam edecek. Turnuva ödülleri ise (Şu anlık):&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Sıralama&lt;/th&gt;
+      &lt;th&gt;Ödül&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;$14,946,054&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;$4,270,301&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;$2,956,363&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;$1,970,908&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5-6&lt;/td&gt;
+      &lt;td&gt;$1,149,697&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7-8&lt;/td&gt;
+      &lt;td&gt;$821,212&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9-12&lt;/td&gt;
+      &lt;td&gt;$656,970&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;13-16&lt;/td&gt;
+      &lt;td&gt;$492,727&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;17-18&lt;/td&gt;
+      &lt;td&gt;$82,121&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;favori-takımlarım&quot;&gt;Favori Takımlarım&lt;/h2&gt;
+&lt;p&gt;Takımların sırası önceli olarak DPC(Dota Pro Circuit) sıralaması esas alınmıştır.&lt;/p&gt;
+
+&lt;h3 id=&quot;team-secret&quot;&gt;Team Secret&lt;/h3&gt;
+&lt;p&gt;Bu yılı DPC birincisi olarak bitiren Team Secret için söylenecek pek fazla şey yok aslında. Bütün Majorlara katılıp 2’sini kazanıp çıkmak oldukça yeterli bir güç göstergesi. Fakat bundan önceki senelerdeki TI’larda maalesef hiçbir zaman beklenen performansı veremeyip maximum 5-6 sırasında bitirdiler. Son Majorde de pek iyi bir performans göstermediler. Gerçi birazcık deneysel takıldıkları bir turnuva olmuştu, TI daveti garantiydi sonuçta. Umuyorum ki sadece o turnuvaya özel bir durumdur.&lt;/p&gt;
+
+&lt;p&gt;Oyun stili olarak meta dışı herolar ile kendi bildiklerini oynuyorlar genelde. Bundan ötürü heyecanlı ve değişik maçlar sunabiliyorlar.&lt;/p&gt;
+
+&lt;p&gt;Oyuncular:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nisha: Genç yetenek, bu turnuva katılacağı ilk TI.&lt;/li&gt;
+  &lt;li&gt;MidOne: Tecrübeli, hero kapsamı inanılmaz geniş.&lt;/li&gt;
+  &lt;li&gt;Zai: Büyük ihtimalle oyundaki şu an en iyi offlane. Sinir bozucu derecede zeki oynuyor genellikle.&lt;/li&gt;
+  &lt;li&gt;Yapzor: Büyük ihtimalle oyundaki en iyi 4. pozisyon.&lt;/li&gt;
+  &lt;li&gt;Puppey &lt;strong&gt;(c)&lt;/strong&gt;: Hiçbir TI kaçırmadı bu güne kadar. Oyundaki birçok ismi keşfeden ve parlatan isim. Her sene en iyi takımı toplayıp yetiştiren isim.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;virtus-pro-vp&quot;&gt;Virtus Pro (VP)&lt;/h3&gt;
+&lt;p&gt;CIS bölgesinin gururu VP, 3 yıldır sadece 1 değişiklik ile(Lil out, Rodjer in) stabil kadro ile giriyor TI9’a. Bu sene bütün Majorlere katılıp 1 galibiyet, 2 ikincilik ile güçlü bir performans ile geliyorlar TI9’a. Bundan önceki TI ve benzeri yüksek stresli turnuvalarda malesef takım içinde kolay sinirlenmeler ve stres altında bocalayanlar sık görüldü. Eğer standart performanslarında devam ederlerse ilk 3 pek de uzak bir ihtimal değil.&lt;/p&gt;
+
+&lt;p&gt;Oyun stili olarak hızlı ve teamfight odaklı, biz geliriz vururuz mentalitesinde bir stilleri var. Bu sebepten ötürü genellikle adrenalin dolu maçları oluyor.&lt;/p&gt;
+
+&lt;p&gt;Oyuncular:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ramzes: Hem genç, hem yetenekli hem de drafter. Müthiş bir oyuncu.&lt;/li&gt;
+  &lt;li&gt;Noone: Kolay tilt olabilen, fakat inanılmaz bir laner.&lt;/li&gt;
+  &lt;li&gt;Pasha: Eski carry, ortalamanın altında performans göstermez pek.&lt;/li&gt;
+  &lt;li&gt;Rodjer: Takımın yıldızı büyük ihtimalle.&lt;/li&gt;
+  &lt;li&gt;Solo &lt;strong&gt;(c)&lt;/strong&gt;: Geçmişi biraz karanlık, fakat takımı 3 yıl bir arada tutmak kaptanlık yeteneklerini doğruluyor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vici-gaming-vg&quot;&gt;Vici Gaming (VG)&lt;/h3&gt;
+&lt;p&gt;Sezona biraz yavaş başlayan VG, sezon ortasından itibaren korkunç iyi bir formda devam etti. Özellikle Starladder Minor’ü kazanıp üstüne de Dreamleague Major kazanarak DPC sıralamasına uçarak girdi. Hiç Major ıskalamayıp, 2 tanesini 
+de kazandılar. Fakat kazanmadıkları Majorlardaki performansları malesef kazandıklarındakine pek yakın olduklarını söyleyemeceğim. TI9’da hangi VG görünecek merakla bekliyorum.&lt;/p&gt;
+
+&lt;p&gt;Oyun stilleri genellikle dengeli, draftlar stabil ve outplay odaklı. Çok yetenekli bir takım olduklarından dolayı maçları da bir o kadar zevkli oluyor.&lt;/p&gt;
+
+&lt;p&gt;Oyuncular:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Paparazzi: DAC 1vs1 şampiyonu. İyi bir oyunu varsa tek başına maçı kazandırabilecek bir oyuncu.&lt;/li&gt;
+  &lt;li&gt;Ori: Takımın benim gözümde zayıf halkası. Buna rağmen eğer DP gibi rahat olduğu bir hero alırsa ve birazcık da farm bulabilirse oldukça tehlike oluşturabiliyor.&lt;/li&gt;
+  &lt;li&gt;Yang: Genellikle Ori kötü bir oyun geçiriyorsa VG’yi oyunda tutan isim.&lt;/li&gt;
+  &lt;li&gt;Fade &lt;strong&gt;(c)&lt;/strong&gt;: Rubick vermeyin.&lt;/li&gt;
+  &lt;li&gt;Dy: Takımın gizli silahı. Bir 5. pozisyon oyuncusu bu kadar etki edebilir mi? Eder.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;evil-geniuses-eg&quot;&gt;Evil Geniuses (EG)&lt;/h3&gt;
+&lt;p&gt;Ben dahil pek çok insanın favori takımı. Herhalde Team Secret ile beraber DotA konulu her dramada bir şekilde ismi geçen bir takım. Bu sene DPC’de stabil bir görüntü çizdiler. Sonuca çok yakın ama hep bir adım kısa. 5 Major’ün hepsine katıldılar ve 3 tanesinde 3. oldular. Son Majorde korkunç kötü bir performans gösterdiler. Bu TI herhalde 1.5 senedir beraber devam eden takımın son sınavı olacak.&lt;/p&gt;
+
+&lt;p&gt;Oyun stilleri genellikle lane’leri kazanıp sonuca gitmek üzerine. Bunun dezavantajı olarak draft kötü geçince maçı kaybetmeye gidiyor direk. Yine de maçları yetenekli oyuncuları sebebi ile güzel geçebiliyor.&lt;/p&gt;
+
+&lt;p&gt;Oyuncular:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arteezy: DotA evreninin Lebron’u. Şampiyonluğu pekçok kez elinden kaçırdı, artık bir galibiyete ihtiyacı var.&lt;/li&gt;
+  &lt;li&gt;Sumail: 2015 yılında şampiyon olan ekipten kalan tek kişi. Oyundaki muhtemelen en iyi laner.&lt;/li&gt;
+  &lt;li&gt;s4: 2013 yılında mid oynarken şampiyon oldu. Maçları yazı tura gibi, ya tanrı gibi ya monitörü kapalı gibi.&lt;/li&gt;
+  &lt;li&gt;Cr1t: Büyük ihtimalle ekipteki en stabil oyuncu. Her zaman en az ortalamanın üstü performans.&lt;/li&gt;
+  &lt;li&gt;Fly: Stabil, işini yapan bir support. Fakat asıl gücü kaptanlığında.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;team-liquid&quot;&gt;Team Liquid&lt;/h3&gt;
+&lt;p&gt;TI7 şampiyonu Liquid, biraz zorlu bir yıl geçirdi. İlk Major’ü kaçırdılar, sonraki ikisinde de oldukça kötü sonuçlarla ayrıldılar MDL Disneyland’da biraz toparlanmış görünseler de takım değişikliklere gitti. MATUMBAMAN yerine w33ha’yı alarak hem yeni kan, hem de yeni taktikler ile sahneye çıktılar. Epicenter Major’da da ikinciği kaparak “yarışta biz de varız” mesajını verdiler. w33ha dışındaki 4’lü ise TI7’yi kazanan 4lü ve ikinci galibiyetleri için aç geliyorlar.&lt;/p&gt;
+
+&lt;p&gt;Oyun stilleri olarak hem üstün teamfight hem de üstün lane yetenekleri ile öne çıkıyorlar. w33ha geldikten sonra mid için çok yorum yapamasak da genellikle bütün herolar ile olduçka etkili olabiliyorlar.&lt;/p&gt;
+
+&lt;p&gt;Oyuncular:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Miracle: Takımın süperstarı. DotA camiasında en çok bilinen isim olması muhtemel. Bu sene biraz olağan performansının altında fakat her zaman tehlikeli.&lt;/li&gt;
+  &lt;li&gt;w33ha: Secret zamanında Miracle ile beraber en iyi mid oyuncusuydu. Miracle ile beraber çok tehlikeli bir kombinasyon olabilir.&lt;/li&gt;
+  &lt;li&gt;Mind_Control: Oyun tarzını her zaman seviyorum. En zeki oyunculardan biri herhalde. Takım içerisinde en iyi oyuncu sorulunca gösterilen isim.&lt;/li&gt;
+  &lt;li&gt;Gh: Müthiş pozitif bir oyuncu, aynı zamanda inanılmaz yetenekli. Akıl dolu bir oyun sergiliyor.&lt;/li&gt;
+  &lt;li&gt;Kuroky: Puppey için ne dediysem aynısı geçerli. Eski takım arkadaşlarılar zaten.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;i̇zlenecek-dramalar&quot;&gt;İzlenecek Dramalar&lt;/h2&gt;
+&lt;p&gt;Bir sporu zevkli kılan şey, dramalar. DotA hiçbir zaman drama eksiği çekmedi. Çekeceğini de düşünmüyorum.&lt;/p&gt;
+
+&lt;h3 id=&quot;liquid-vs-matumbaman&quot;&gt;Liquid vs MATUMBAMAN&lt;/h3&gt;
+&lt;p&gt;TI9’dan öncesinde, Epicenter Major’den sayılı gün öncesinde MATUMBAMAN takımdan kovuldu. Fakat MATUMBAMAN yeni takımı Chaos ile TI9’a katılmaya hak kazandı. İki takım ilk gün grup maçlarında birbirleri ile karşılaşacak. Her ne kadar ayrılması sırasında kötü olaylar olmasa da yine de MATU kendisini ispatlaması gerekecek eski takımına karşı.&lt;/p&gt;
+
+&lt;h3 id=&quot;eg-vs-og-round-2&quot;&gt;EG vs OG Round 2&lt;/h3&gt;
+&lt;p&gt;Geçen senenin en büyük olayı s4 ve Fly’ın OG’den TI’dan birkaç hafta öncesinde takımdan ayrılıp EG’ye geçmesiydi. OG daha sonra TI8’de EG’yi yenip bütün zorluklara ve imkansızlıklara rağmen şampiyon olmuştu. Bu sene iki takım da aynı kadrolarla tekrar TI’da. EG kendisini ispatlamak, OG ise ikinci şampiyonluğunu yaşamak için arenada. İki takım ilk gün grup maçlarında karşılaşacak.&lt;/p&gt;
+
+&lt;h3 id=&quot;kuku-vs-çin&quot;&gt;Kuku vs Çin&lt;/h3&gt;
+&lt;p&gt;Chongqing Major öncesi Kuku bir pub maçı sırasında Çinli oyunculara “Ching Chong” diye seslendiği için ırkçılık nedeni ile Çin’e alınmamış ve Çinli oyuncular Valve’ı protesto etmişti. Kuku takımı TNC ile TI9’da Çinli seyirciler önünde yarışacak. Protestolar olur mu, olursa ne gibi sonuçları olur izlenecek :)&lt;/p&gt;
+
+&lt;h3 id=&quot;psglgd-vs-og&quot;&gt;PSG.LGD vs OG&lt;/h3&gt;
+&lt;p&gt;Geçen senenin finali bu sene ana sahnede tekrarlanması muhtemel maçlardan biri. İki takım da geçen seneki performanslarının altında olsa da TI8 finalindeki muhteşem 5 maçlık finalin rövanşı izlemeye değer olacaktır.&lt;/p&gt;</content><author><name>buncolak</name></author><category term="esports" /><category term="dota" /><category term="eğlence" /><summary type="html">Çok fazla klasik spor izleyen biri değilim. NBA playoff finalleri ve Şampiyonlar Ligi dışında pek fazla izlediğimi söyleyemem. Yıllardır izlediğim iki adet espor var: DotA2 ve CS:GO. Her yıl Ağustos-Eylül aylarında DotA2 için The International, CS:GO için ise Major oluyor. Bu sene biraz kendi seyir keyfimi zenginleştirmek, biraz da işsizliğimden bu seneki The International(TI9) için kimler katılıyor ve genel istatistikler hazırlamak istedim.</summary></entry><entry><title type="html">Gerçekçi bir film</title><link href="/gercekci-bir-film/" rel="alternate" type="text/html" title="Gerçekçi bir film" /><published>2019-06-21T00:00:00+03:00</published><updated>2019-06-21T00:00:00+03:00</updated><id>/gercekci-bir-film</id><content type="html" xml:base="/gercekci-bir-film/">&lt;p&gt;Game of Thrones sekizinci sezonu ile finalini yaptı. Son sezon olması, yoğun savaş 
 sahneleri ve tabi beraberinde gelen CGI masrafları dolayısı ile bir sene ara vererek geldi.
 Sonuç hüsran oldu bildiğiniz üzere. Son birkaç sezondur yavaş yavaş ortaya çıkan ucuz
 senaryo taktikleri, dayanağı olmayan karakter hareketleri bu sezonda son noktadaydı.
@@ -48,4 +197,4 @@ pozları olmayan, kötü karakterlerin sadece kötü olmak için kötü olmadı�
 şeyler izlemek istiyorum. Çok mu zor?&lt;/p&gt;
 
 &lt;p&gt;Song of the day:&lt;/p&gt;
-&lt;iframe src=&quot;https://open.spotify.com/embed/track/3MODES4TNtygekLl146Dxd&quot; width=&quot;500&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="film" /><category term="istek" /><category term="şikayet" /><category term="game of thrones" /><summary type="html">Game of Thrones sekizinci sezonu ile finalini yaptı. Son sezon olması, yoğun savaş sahneleri ve tabi beraberinde gelen CGI masrafları dolayısı ile bir sene ara vererek geldi. Sonuç hüsran oldu bildiğiniz üzere. Son birkaç sezondur yavaş yavaş ortaya çıkan ucuz senaryo taktikleri, dayanağı olmayan karakter hareketleri bu sezonda son noktadaydı. Detaylı bir şekilde anlatmayacağım, zaten bu mantık hatalarını izlerken siz de fark ettiniz. Ben ise Game of Thrones’un ilk sezonlarını izlerken çoğu kişiyi bağlayan ve diğer dizilerden farklı yapan özelliğinden bahsedeceğim: Gerçeklik.</summary></entry></feed>
+&lt;iframe src=&quot;https://open.spotify.com/embed/track/3MODES4TNtygekLl146Dxd&quot; width=&quot;100%&quot; height=&quot;80&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; allow=&quot;encrypted-media&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="film" /><category term="istek" /><category term="şikayet" /><category term="game of thrones" /><summary type="html">Game of Thrones sekizinci sezonu ile finalini yaptı. Son sezon olması, yoğun savaş sahneleri ve tabi beraberinde gelen CGI masrafları dolayısı ile bir sene ara vererek geldi. Sonuç hüsran oldu bildiğiniz üzere. Son birkaç sezondur yavaş yavaş ortaya çıkan ucuz senaryo taktikleri, dayanağı olmayan karakter hareketleri bu sezonda son noktadaydı. Detaylı bir şekilde anlatmayacağım, zaten bu mantık hatalarını izlerken siz de fark ettiniz. Ben ise Game of Thrones’un ilk sezonlarını izlerken çoğu kişiyi bağlayan ve diğer dizilerden farklı yapan özelliğinden bahsedeceğim: Gerçeklik.</summary></entry></feed>
